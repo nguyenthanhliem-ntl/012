@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3630d544-e839-4dbb-be66-6e5a036e1f0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/0..html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mgVq5mBiBXiVs32lV2WGtBopGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/06.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/06.html" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\WebstormProjects\test1\.idea" />
+      <recent name="C:\Users\ADMIN\WebstormProjects\test1\1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3630d544-e839-4dbb-be66-6e5a036e1f0f" name="Default Changelist" comment="" />
+      <created>1609915411015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609915411015</updated>
+      <workItem from="1609915412306" duration="2471000" />
+      <workItem from="1609919426727" duration="5418000" />
+      <workItem from="1609927236081" duration="1555000" />
+      <workItem from="1609986646913" duration="25151000" />
+      <workItem from="1610015139645" duration="555000" />
+      <workItem from="1610067516342" duration="2787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
