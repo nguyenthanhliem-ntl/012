@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3630d544-e839-4dbb-be66-6e5a036e1f0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/0..html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/may tinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/css/08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/04.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/06.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/07.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/0..html" beforeDir="false" afterPath="$PROJECT_DIR$/1/0..html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +26,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1mgVq5mBiBXiVs32lV2WGtBopGW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -70,7 +82,11 @@
       <workItem from="1609927236081" duration="1555000" />
       <workItem from="1609986646913" duration="25151000" />
       <workItem from="1610015139645" duration="555000" />
-      <workItem from="1610067516342" duration="2787000" />
+      <workItem from="1610067516342" duration="17301000" />
+      <workItem from="1610093608465" duration="3121000" />
+      <workItem from="1610337375135" duration="173000" />
+      <workItem from="1610337631271" duration="20946000" />
+      <workItem from="1610372028663" duration="2707000" />
     </task>
     <servers />
   </component>
